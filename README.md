@@ -41,7 +41,7 @@
         💬 Ask me about <strong>Java, Frontend Development, or Programming Fundamentals</strong><br>
         ⚡ Fun fact: <strong>I turn coffee into code and bugs into features!</strong><br>
         🎯 Goal: <strong>To become a full-stack developer and build impactful digital solutions</strong><br>
-        🌍 Based in: <strong>Your Location</strong>
+        
       </p>
     </td>
     <td width="30%" align="center">
