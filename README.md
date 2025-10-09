@@ -40,8 +40,7 @@
         💼 Building <strong>responsive web applications and solving real-world problems</strong><br>
         💬 Ask me about <strong>Java, Frontend Development, or Programming Fundamentals</strong><br>
         ⚡ Fun fact: <strong>I turn coffee into code and bugs into features!</strong><br>
-        🎯 Goal: <strong>To become a full-stack developer and build impactful digital solutions</strong><br>
-        
+        🎯 Goal: <strong>To become a full-stack developer and build impactful digital solutions</strong>
       </p>
     </td>
     <td width="30%" align="center">
@@ -203,26 +202,6 @@ To add your actual projects later, replace the section above with:
 </p>
 
 ---
-
-### 🐍 Unique Animated Snake
-
-<div align="center">
-  <p><strong>🐍 Coding Snake in Action!</strong></p>
-  
-  <!-- Option 1: Rainbow Snake -->
-  <img src="https://media.giphy.com/media/3o7aD5sa1DbOCQXDcQ/giphy.gif" alt="Rainbow Snake" width="600" />
-  
-  <!-- Alternative Options (uncomment to use): -->
-  
-  <!-- Option 2: Pixel Snake -->
-  <!-- <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Pixel Snake" width="600" /> -->
-  
-  <!-- Option 3: Matrix Snake -->
-  <!-- <img src="https://media.giphy.com/media/l0ExayQDzrI2xOuWQ/giphy.gif" alt="Matrix Snake" width="600" /> -->
-  
-  <!-- Option 4: Glowing Snake -->
-  <!-- <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Glowing Snake" width="600" /> -->
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" />
