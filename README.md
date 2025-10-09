@@ -151,20 +151,6 @@ To add your actual projects later, replace the section above with:
 
 ---
 
-### 📚 Blog Posts & Resources
-
-<!-- Add your blog links here if you have any -->
-<div align="center">
-  <a href="https://dev.to/golamrabby1">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@golamrabby1">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -177,7 +163,7 @@ To add your actual projects later, replace the section above with:
   <a href="mailto:golamrabbytony@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/golamrabby1" target="_blank">
+  <a href="https://x.com/golamrabbytony" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
