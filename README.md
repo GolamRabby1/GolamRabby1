@@ -1,204 +1,119 @@
-<!-- 🌟 Golam Rabby's GitHub Profile README -->
+<!-- 🌟 Golam Rabby - Premium Web-Style README -->
+
+<!-- 🌟 Golam Rabby - Premium Web-Style README -->
 
 <div align="center">
-  <!-- Animated Banner -->
-  <img src="https://i.ibb.co/7V3Y8dN/coding-banner.gif" alt="Coding Banner" width="100%" />
-  
-  <!-- Profile Badge -->
-  <img src="https://komarev.com/ghpvc/?username=GolamRabby1&style=for-the-badge&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0a2540,100:0a2f4f&height=200&section=header&text=GOLAM%20RABBY&fontSize=45&fontColor=64ffda&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Architect%20%7C%20AI%20Engineer&descSize=16&descAlignY=55&descColor=8892b0&animation=fadeIn" />
 </div>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  Hi, I'm Golam Rabby
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
-</h1>
+<!-- HERO SECTION -->
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkM2JqZ2R4d2xnb3Bpc2ZoN3Noc3Z6d2h6b3BqZ2R3b3NqM2NzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350" />
 
-<h3 align="center">🚀 Full-Stack Developer | Java Enthusiast | Tech Explorer</h3>
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Rabby!
 
-<p align="center">
-  <a href="https://golamrabby1.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/GolamRabby1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=E94560&center=false&vCenter=false&multiline=true&width=500&height=80&lines=Building+the+future,+one+line+at+a+time;Turning+complex+problems+into+elegant+code;Coffee+%E2%98%95+%E2%86%92+Code+Converter+%F0%9F%92%BB" alt="Typing SVG" />
 
----
+<br/><br/><br/>
 
-### 🌟 About Me
+🌱 Currently mastering **Java, System Design & Advanced Web Architecture**  
+💼 Focused on building **scalable, responsive, and real-world applications**  
+💬 Ask me about **Java, React, or Programming Fundamentals**  
+⚡ Fun fact: **I don't hunt bugs, I adopt them until they become features**
 
-<table align="center">
-  <tr>
-    <td width="70%">
-      <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=2AA889&width=500&lines=Full-Stack+Developer+in+Training;Java+Enthusiast;Problem+Solver;Tech+Explorer;Always+Learning" alt="Typing SVG" />
-      </p>
-      <p align="left">
-        🌱 Currently mastering <strong>Java, Web Development, and Advanced Data Structures</strong><br>
-        💼 Building <strong>responsive web applications and solving real-world problems</strong><br>
-        💬 Ask me about <strong>Java, Frontend Development, or Programming Fundamentals</strong><br>
-        ⚡ Fun fact: <strong>I turn coffee into code and bugs into features!</strong><br>
-        🎯 Goal: <strong>To become a full-stack developer and build impactful digital solutions</strong>
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkM2JqZ2R4d2xnb3Bpc2ZoN3Noc3Z6d2h6b3BqZ2R3b3NqM2NzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Aggressive Coder" width="250" />
-    </td>
-  </tr>
-</table>
+<br clear="both" />
 
----
-
-### 🛠️ Tech Stack & Tools
-
+<!-- CENTERED WIDE BUTTONS -->
 <div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <a href="https://golamrabbyportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_LIVE_PORTFOLIO-e94560?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e" alt="Portfolio" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1XTci2FlFcDh_xzXIGTkhx1wiURBY-Sil/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_MY_FULL_CV-fbbf24?style=for-the-badge&logo=google-drive&logoColor=fbbf24&labelColor=1a1a2e" alt="Download CV" height="40" />
+  </a>
+</div>
+
+---
+
+### 🎯 Current Focus
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Development-06b6d4?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e" alt="React" />
+  <img src="https://img.shields.io/badge/Java_Mastery-fbbf24?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" alt="Java" />
+  <img src="https://img.shields.io/badge/System_Design-e94560?style=for-the-badge&logo=architect&logoColor=white&labelColor=1a1a2e" alt="System Design" />
+  <img src="https://img.shields.io/badge/Open_Source-4ade80?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" alt="Open Source" />
+</div>
+
+---
+
+### 🛠️ My Tech Arsenal
+<div align="center">
   
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,python" />
+  [![My Tech Stack](https://img.shields.io/badge/MY_TECH_ARSENAL-1a1a2e?style=for-the-badge&logo=visualstudio&logoColor=e94560&labelColor=1a1a2e)](#)
   
-  <h3>Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,nodejs,python,mysql,git,github,vscode,idea,postman,figma&perline=8&theme=dark" alt="Tech Stack Icons" />
+  
 </div>
 
 ---
 
 ### 📊 GitHub Analytics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GolamRabby1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GolamRabby1&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GolamRabby1&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.cyclic.app/graph?username=GolamRabby1&theme=tokyo-night" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GolamRabby1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  
+  [![Developer Stats](https://img.shields.io/badge/GITHUB_ANALYTICS-1a1a2e?style=for-the-badge&logo=github&logoColor=fbbf24&labelColor=1a1a2e)](#)
+  
+  <br/><br/>
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GolamRabby1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=fbbf24&text_color=ffffff" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GolamRabby1&theme=dark&hide_border=true&background=1a1a2e&ring=e94560&fire=fbbf24&currLabel=e94560&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolamRabby1&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=GolamRabby1&theme=discord&no-frame=true&no-bg=true&margin-w=5&column=4" alt="Trophies" />
+  
 </div>
 
 ---
 
-### 📈 Skills Progress
-
+### 🐍 My Contribution Graph
 <div align="center">
-  <table>
-    <tr>
-      <td width="20%"><strong>Java</strong></td>
-      <td width="60%">
-        <div style="background-color: #e0e0e0; border-radius: 15px; overflow: hidden;">
-          <div style="background-color: #f89820; width: 80%; height: 20px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">80%</div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%"><strong>JavaScript</strong></td>
-      <td width="60%">
-        <div style="background-color: #e0e0e0; border-radius: 15px; overflow: hidden;">
-          <div style="background-color: #f7df1e; width: 75%; height: 20px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: black; font-weight: bold;">75%</div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%"><strong>React</strong></td>
-      <td width="60%">
-        <div style="background-color: #e0e0e0; border-radius: 15px; overflow: hidden;">
-          <div style="background-color: #61dafb; width: 70%; height: 20px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: black; font-weight: bold;">70%</div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%"><strong>Python</strong></td>
-      <td width="60%">
-        <div style="background-color: #e0e0e0; border-radius: 15px; overflow: hidden;">
-          <div style="background-color: #3776ab; width: 65%; height: 20px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">65%</div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  
+  [![My Contributions](https://img.shields.io/badge/MY_CONTRIBUTIONS-1a1a2e?style=for-the-badge&logo=git&logoColor=4ade80&labelColor=1a1a2e)](#)
+  
+  <br/><br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GolamRabby1/GolamRabby1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GolamRabby1/GolamRabby1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/GolamRabby1/GolamRabby1/output/github-snake-dark.svg" width="100%" />
+  </picture>
+  
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
+### 💭 Dev Quote of the Day
 <div align="center">
-  <p><em>🔧 Projects section coming soon! I'm working on some exciting stuff...</em></p>
-  <p><em>📌 Check back later or visit my <a href="https://golamrabby1.github.io/">portfolio</a> for updates!</em></p>
-</div>
-
-<!-- 
-To add your actual projects later, replace the section above with:
-
-<div align="center">
-  <a href="https://github.com/GolamRabby1/your-repo-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GolamRabby1&repo=your-repo-name-1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/GolamRabby1/your-repo-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GolamRabby1&repo=your-repo-name-2&theme=tokyonight" alt="Project 2" />
-  </a>
-</div>
--->
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://golamrabby1.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/golam-rabby1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:golamrabbytony@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://x.com/golamrabbytony" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%" />
 </div>
 
 ---
 
-### ✨ Quote of the Day
-
+### 🌐 Let's Connect & Build Together
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  
+  [![Connect With Me](https://img.shields.io/badge/LET'S_CONNECT-1a1a2e?style=for-the-badge&logo=handshake&logoColor=e94560&labelColor=1a1a2e)](#)
+  
+  <br/><br/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-e94560?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e)](https://golamrabbyportfolio.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/golam-rabby1)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:golamrabbytony@gmail.com)
+  [![Twitter](https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=X&logoColor=white&labelColor=1a1a2e)](https://x.com/golamrabbytony)
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=GolamRabby1&style=flat-square&color=e94560&label=VISITORS" alt="Profile Views" />
+  
 </div>
 
----
-
-### 💡 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" alt="Web Development" />
-  <img src="https://img.shields.io/badge/Focus-Java%20Mastery-orange" alt="Java Mastery" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Integration-green" alt="AI Integration" />
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-purple" alt="Open Source" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" />
-</div>
-
-<p align="center">
-  <i>Thanks for visiting my profile! Have a wonderful day! 😊</i>
-  <br>
-  <strong>🚀 Keep coding, keep growing! 🚀</strong>
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marketplace/actions/rainbow-fart/main/images/demo.gif" width="100" alt="Coding Animation" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
